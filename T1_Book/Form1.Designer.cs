@@ -35,7 +35,7 @@ namespace T1_Book
             this.label1.Name = "label1";
             this.label1.Size = new Size(211, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Проектирование класса \"Книга\"";
+            this.label1.Text = "Книга";
 
             this.btnCreateBooks.Location = new Point(15, 40);
             this.btnCreateBooks.Name = "btnCreateBooks";
